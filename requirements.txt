@@ -1,0 +1,5 @@
+playwright
+pydub
+SpeechRecognition
+pytesseract
+Pillow
